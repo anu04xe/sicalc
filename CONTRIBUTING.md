@@ -1,3 +1,1 @@
-How to report issues
-How to fork and submit a PR
-Coding style guidelines
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
